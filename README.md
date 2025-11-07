@@ -67,7 +67,10 @@ Run all the cells in the notebook from top to bottom. The notebook will load the
 4. Project File Structure
 
 ├── dataset/              # Data (ignored by git, must be downloaded)
+
 ├── .gitignore            # Tells git which files to ignore
+
 ├── Fake_News_Detection.ipynb # The main notebook with all analysis, training, and demo
+
 ├── requirements.txt      # List of Python dependencies
 
